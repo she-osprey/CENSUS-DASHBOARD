@@ -16,4 +16,5 @@ The first known population census in Kenya was conducted in 1897 and was basical
 
 ### This information will be used in planning, budgeting and programming for important services; future policy formulation, resource allocation; creation of administrative and
 political units; monitoring and evaluation of programmes and projects; research; development of a master household sampling frame; development of geo-spatial database; and benchmark for agricultural census/surveys.  
-## Objective: Creating a dashboard for the 2019 population and housing Census with a focus on Socio-Economic characteristics
+## Objective: 
+Creating a dashboard for the 2019 population and housing Census with a focus on Socio-Economic characteristics
